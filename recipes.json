@@ -1,0 +1,26 @@
+[
+    {
+        "id": "pasta",
+        "title": "Creamy Wild Mushroom Pasta",
+        "image": "images/pasta.png",
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "servings": "4",
+        "category": "Dinner",
+        "tags": "Vegetarian, Pasta, Quick",
+        "description": "A rich and earthy pasta dish featuring a medley of wild mushrooms, fresh herbs, and a velvety parmesan sauce.",
+        "content": "### Ingredients\r\n- [ ] 1 lb Fettuccine or Tagliatelle\r\n- [ ] 2 tbsp Olive Oil\r\n- [ ] 1 lb Mixed Wild Mushrooms\r\n- [ ] 3 cloves Garlic, minced\r\n- [ ] 1 cup Heavy Cream\r\n- [ ] 1/2 cup Parmesan Cheese\r\n- [ ] Fresh Parsley, chopped\r\n- [ ] Salt and Black Pepper\r\n\r\n### Instructions\r\n1. **Prepare the Mushrooms**\r\n   Clean the mushrooms with a damp cloth and slice them. Heat olive oil in a large skillet over medium-high heat. Add the mushrooms and cook until golden brown and moisture has evaporated, about 8-10 minutes.\r\n\r\n2. **Cook the Pasta**\r\n   While mushrooms are cooking, bring a large pot of salted water to a boil. Add pasta and cook according to package directions until al dente. Reserve 1/2 cup of pasta water before draining.\r\n\r\n3. **Make the Sauce**\r\n   Reduce heat to medium. Add minced garlic to the mushrooms and sauté for 1 minute until fragrant. Pour in the heavy cream and simmer for 2-3 minutes until slightly thickened.\r\n\r\n4. **Combine and Serve**\r\n   Stir in the parmesan cheese. Add the drained pasta to the skillet along with a splash of reserved pasta water if needed to loosen the sauce. Toss to coat evenly. Season with salt and pepper. Garnish with fresh parsley and serve immediately.\r\n"
+    },
+    {
+        "id": "salad",
+        "title": "Vibrant Summer Harvest Salad",
+        "image": "images/salad.png",
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "servings": "2",
+        "category": "Lunch",
+        "tags": "Healthy, Vegan, Gluten-Free",
+        "description": "Crisp greens, sweet cherry tomatoes, and creamy avocado tossed in a zesty lemon vinaigrette. The perfect light lunch.",
+        "content": "### Ingredients\r\n- [ ] 4 cups Mixed Greens\r\n- [ ] 1 cup Cherry Tomatoes, halved\r\n- [ ] 1 Cucumber, sliced\r\n- [ ] 1 Avocado, diced\r\n- [ ] 1/4 Red Onion, thinly sliced\r\n- [ ] 2 tbsp Lemon Juice\r\n- [ ] 3 tbsp Extra Virgin Olive Oil\r\n- [ ] Salt and Pepper\r\n\r\n### Instructions\r\n1. **Prep the Vegetables**\r\n   Wash and dry the mixed greens thoroughly. Slice the cherry tomatoes in half, slice the cucumber into rounds, and dice the avocado.\r\n\r\n2. **Make the Dressing**\r\n   In a small jar or bowl, whisk together the lemon juice, extra virgin olive oil, salt, and pepper until emulsified.\r\n\r\n3. **Assemble**\r\n   In a large salad bowl, combine the greens, tomatoes, cucumber, and red onion. Drizzle with half the dressing and toss gently to coat.\r\n\r\n4. **Finish and Serve**\r\n   Top with the diced avocado (adding it last prevents it from getting mashed). Drizzle with the remaining dressing and serve immediately.\r\n"
+    }
+]

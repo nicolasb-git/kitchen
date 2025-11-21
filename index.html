@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaerith's Kitchen | Art of Cooking</title>
+    <meta name="description" content="Discover premium recipes and culinary inspiration.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@400;700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="container nav-container">
+            <a href="index.html" class="logo">Kaerith's Kitchen.</a>
+            <nav>
+                <div class="mobile-toggle">☰</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html#recipes">Recipes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="container hero">
+            <div class="hero-content">
+                <h1>Elevate Your Home Cooking</h1>
+                <p>Discover a curated collection of seasonal recipes, culinary techniques, and stories from the kitchen.
+                    Simple ingredients, extraordinary flavors.</p>
+                <a href="#recipes" class="btn">Explore Recipes</a>
+            </div>
+            <div class="hero-image">
+                <img src="images/hero.png" alt="Rustic table spread with fresh ingredients">
+            </div>
+        </section>
+
+        <section id="recipes" class="container featured">
+            <div class="section-header">
+                <h2>Latest Creations</h2>
+                <p>Fresh from my kitchen to yours</p>
+            </div>
+
+            <div id="tag-cloud" class="tag-cloud">
+                <!-- Tags will be loaded dynamically here -->
+            </div>
+
+            <div class="recipe-grid">
+                <!-- Recipes will be loaded dynamically here -->
+                <div style="grid-column: 1/-1; text-align: center; padding: 2rem;">
+                    Loading recipes...
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-logo">Kaerith's Kitchen.</div>
+            <p class="copyright">&copy; 2025 Kaerith's Kitchen. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="recipes.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
