@@ -16,6 +16,7 @@
     --color-background: #FAFAF8;
     /* Off-white */
     --color-white: #FFFFFF;
+    --color-border: #E0E0E0;
 
     --font-heading: 'Playfair Display', serif;
     --font-body: 'Inter', sans-serif;
@@ -68,9 +69,7 @@ ul {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 {
     font-family: var(--font-heading);
     font-weight: 700;
     line-height: 1.2;
@@ -393,13 +392,6 @@ footer {
     font-size: 2rem;
     margin-bottom: 1.5rem;
     display: inline-block;
-}
-
-.social-links {
-    display: flex;
-    justify-content: center;
-    gap: 1.5rem;
-    margin-bottom: 2rem;
 }
 
 .copyright {

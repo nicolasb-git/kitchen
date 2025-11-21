@@ -127,7 +127,9 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             cards.forEach(card => {
                 const cardTags = card.getAttribute('data-tags');
-                if (cardTags && cardTags.includes(selectedTag)) {
+                const tagsArray = cardTags ? cardTags.split(',').map(t => t.trim()) : [];
+
+                if (tagsArray.includes(selectedTag)) {
                     card.classList.remove('grayed-out');
                     card.style.order = '-1';
                 } else {
