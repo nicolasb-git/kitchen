@@ -334,13 +334,11 @@ header {
     border-bottom: 1px solid #f0f0f0;
 }
 
-.ingredient-item:last-child {
-    border-bottom: none;
-}
-
 .checkbox {
     width: 20px;
     height: 20px;
+    min-width: 20px;
+    flex-shrink: 0;
     border: 2px solid var(--color-secondary);
     border-radius: 4px;
     cursor: pointer;
