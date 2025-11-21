@@ -6,7 +6,7 @@ prep_time: 15 mins
 cook_time: 55 mins
 servings: 4
 category: Anytime
-tags: Gratin, Classic, Comfort Food, Winter, French
+tags: Gratin, Classic, Comfort Food, Winter, French, Cheese
 description: A French comfort-food classic: tender endives wrapped in ham, covered with a creamy Mornay sauce, and topped with melted raclette cheese.
 ---
 

@@ -195,38 +195,79 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Simple Markdown Parser for specific format
     function parseRecipeMarkdown(markdown) {
-        // Split by headers
-        const parts = markdown.split('###');
+        const lines = markdown.split(/\r?\n/);
         let ingredientsHtml = '';
         let instructionsHtml = '';
+        let currentSection = null; // 'ingredients' | 'instructions' | null
+        let hasSeenIngredientHeader = false;
 
-        parts.forEach(part => {
-            if (part.trim().startsWith('Ingredients')) {
-                const lines = part.split('\n').filter(l => l.trim().startsWith('- [ ]'));
-                ingredientsHtml = lines.map(line => {
-                    const text = line.replace('- [ ]', '').trim();
-                    return `
-                        <div class="ingredient-item">
+        // For instructions, we need to accumulate multi-line steps
+        let currentStep = null; // { number, title, body }
+
+        lines.forEach(line => {
+            const trimmedLine = line.trim();
+
+            // Detect Sections
+            if (trimmedLine.startsWith('### Ingredients')) {
+                currentSection = 'ingredients';
+                return;
+            } else if (trimmedLine.startsWith('### Instructions')) {
+                currentSection = 'instructions';
+                return;
+            }
+
+            // Parse Content based on section
+            if (currentSection === 'ingredients') {
+                if (trimmedLine.startsWith('####')) {
+                    hasSeenIngredientHeader = true;
+                    ingredientsHtml += `<h4 class="ingredient-group-header">${trimmedLine.replace(/#/g, '').trim()}</h4>`;
+                } else if (trimmedLine.startsWith('- [ ]')) {
+                    const text = trimmedLine.replace('- [ ]', '').trim();
+                    const indentClass = hasSeenIngredientHeader ? 'indented' : '';
+                    ingredientsHtml += `
+                        <div class="ingredient-item ${indentClass}">
                             <div class="checkbox"></div>
                             <span>${text}</span>
                         </div>
                     `;
-                }).join('');
-            } else if (part.trim().startsWith('Instructions')) {
-                // Regex to match numbered list items: 1. **Title** Body
-                const stepRegex = /(\d+)\.\s*\*\*(.*?)\*\*\s*([\s\S]*?)(?=(\d+\.)|$)/g;
-                let match;
-                while ((match = stepRegex.exec(part)) !== null) {
-                    instructionsHtml += `
-                        <div class="instruction-step">
-                            <span class="step-number">${match[1]}</span>
-                            <h4>${match[2]}</h4>
-                            <p>${match[3].trim()}</p>
-                        </div>
-                    `;
+                }
+            } else if (currentSection === 'instructions') {
+                // Check if this is a new step (starts with number)
+                const stepMatch = trimmedLine.match(/^(\d+)\.\s*\*\*(.*?)\*\*$/);
+                if (stepMatch) {
+                    // Save previous step if exists
+                    if (currentStep) {
+                        instructionsHtml += `
+                            <div class="instruction-step">
+                                <span class="step-number">${currentStep.number}</span>
+                                <h4>${currentStep.title}</h4>
+                                <p>${currentStep.body.trim()}</p>
+                            </div>
+                        `;
+                    }
+                    // Start new step
+                    currentStep = {
+                        number: stepMatch[1],
+                        title: stepMatch[2],
+                        body: ''
+                    };
+                } else if (currentStep && trimmedLine.length > 0 && !trimmedLine.startsWith('#')) {
+                    // This is continuation of the current step
+                    currentStep.body += ' ' + trimmedLine;
                 }
             }
         });
+
+        // Don't forget to add the last instruction step
+        if (currentStep) {
+            instructionsHtml += `
+                <div class="instruction-step">
+                    <span class="step-number">${currentStep.number}</span>
+                    <h4>${currentStep.title}</h4>
+                    <p>${currentStep.body.trim()}</p>
+                </div>
+            `;
+        }
 
         return { ingredients: ingredientsHtml, instructions: instructionsHtml };
     }
