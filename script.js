@@ -237,11 +237,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (stepMatch) {
                     // Save previous step if exists
                     if (currentStep) {
+                        // Convert markdown bold to HTML
+                        const bodyHtml = currentStep.body.trim().replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
                         instructionsHtml += `
                             <div class="instruction-step">
                                 <span class="step-number">${currentStep.number}</span>
                                 <h4>${currentStep.title}</h4>
-                                <p>${currentStep.body.trim()}</p>
+                                <p>${bodyHtml}</p>
                             </div>
                         `;
                     }
@@ -258,13 +260,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
+
         // Don't forget to add the last instruction step
         if (currentStep) {
+            // Convert markdown bold to HTML
+            const bodyHtml = currentStep.body.trim().replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
             instructionsHtml += `
                 <div class="instruction-step">
                     <span class="step-number">${currentStep.number}</span>
                     <h4>${currentStep.title}</h4>
-                    <p>${currentStep.body.trim()}</p>
+                    <p>${bodyHtml}</p>
                 </div>
             `;
         }

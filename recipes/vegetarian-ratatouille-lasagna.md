@@ -6,7 +6,7 @@ prep_time: 45 mins
 cook_time: 50 mins
 servings: 6
 category: Lunch/Dinner
-tags: Vegetarian, Comfort Food, Layered, Cheesy
+tags: Vegetarian, Comfort Food, Layered, Cheese, Gratin
 description: A hearty vegetarian lasagna made with layers of homemade ratatouille, vegan haché, tomato sauce, béchamel, and slices of raclette cheese, topped with melted mozzarella.
 ---
 
