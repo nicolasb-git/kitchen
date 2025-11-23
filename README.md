@@ -12,6 +12,7 @@ A premium, static cooking blog that uses a local build process to generate conte
 - `styles.css`: Global styles.
 - `script.js`: Frontend logic (routing, interactions).
 - `build.js`: The build script that generates `recipes.js`.
+- `publish.js`: Deployment script that uploads files to FTP server.
 - `recipes/`: Folder containing your recipe Markdown files.
 - `images/`: Folder containing your recipe images.
 - `admin/`: Folder containing the Recipe Creator App.
