@@ -89,5 +89,8 @@ Simply open `index.html` in your web browser. No local server is needed!
 ## How to Deploy
 
 1.  Run `node build.js` to ensure everything is up to date.
-2.  Upload the **entire project folder** (or just the changed files) to your web server via FTP.
-3.  That's it!
+2.  Run the deployment script:
+    ```bash
+    node publish.js
+    ```
+3.  This will automatically upload your site to the configured FTP server.

@@ -1,0 +1,25 @@
+{
+  "name": "cookingblog",
+  "version": "1.0.0",
+  "description": "A premium, static cooking blog that uses a local build process to generate content. No database or server-side code required.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasb-git/kitchen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nicolasb-git/kitchen/issues"
+  },
+  "homepage": "https://github.com/nicolasb-git/kitchen#readme",
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "dotenv": "^17.2.3"
+  }
+}
