@@ -1,12 +1,12 @@
 ---
 id: manchons-de-canard
 title: Honey-Soy Glazed Duck Wings (Manchons de Canard)
-image: images/manchons-de-canard.jpg
+image: images/manchons-de-canard.png
 prep_time: 10 mins (plus 1 h marinating)
 cook_time: 40 mins
 servings: 4
 category: Dinner
-tags: Duck, Oven, Glazed, Easy
+tags: Traditional, French
 description: Tender duck wings marinated in a sweet, savory, and slightly spiced glaze, then roasted until caramelized and golden.
 ---
 

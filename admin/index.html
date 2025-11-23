@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Creator - Cooking Blog</title>
+    <link rel="stylesheet" href="styles.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="admin-container">
+        <header class="admin-header">
+            <h1>Recipe Creator</h1>
+            <p>Create new recipes for your blog</p>
+            <a href="../index.html" style="color: var(--color-accent); text-decoration: none;">← Back to Blog</a>
+        </header>
+
+        <form id="recipeForm" onsubmit="return false;">
+            <div class="form-group">
+                <label for="title">Recipe Title</label>
+                <input type="text" id="title" class="form-control" placeholder="e.g., Homemade Pizza" required>
+            </div>
+
+            <div class="form-group">
+                <label for="id">File Name / ID (Auto-generated)</label>
+                <input type="text" id="id" class="form-control" readonly style="background: #f8f9fa; color: #6c757d;">
+            </div>
+
+            <div class="form-group">
+                <label for="description">Description</label>
+                <textarea id="description" class="form-control"
+                    placeholder="A brief, appetizing description..."></textarea>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                <div class="form-group">
+                    <label for="category">Category</label>
+                    <select id="category" class="form-control">
+                        <option value="Dinner">Dinner</option>
+                        <option value="Lunch">Lunch</option>
+                        <option value="Breakfast">Breakfast</option>
+                        <option value="Dessert">Dessert</option>
+                        <option value="Snack">Snack</option>
+                        <option value="Anytime">Anytime</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="tags">Tags (comma separated)</label>
+                    <input type="text" id="tags" class="form-control" placeholder="e.g., Italian, Vegetarian, Quick">
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem;">
+                <div class="form-group">
+                    <label for="prep_time">Prep Time</label>
+                    <input type="text" id="prep_time" class="form-control" placeholder="e.g., 20 mins">
+                </div>
+                <div class="form-group">
+                    <label for="cook_time">Cook Time</label>
+                    <input type="text" id="cook_time" class="form-control" placeholder="e.g., 30 mins">
+                </div>
+                <div class="form-group">
+                    <label for="servings">Servings</label>
+                    <input type="text" id="servings" class="form-control" placeholder="e.g., 4">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="image">Image Path</label>
+                <input type="text" id="image" class="form-control" placeholder="images/your-image.jpg">
+            </div>
+
+            <div class="form-group">
+                <label>Ingredients</label>
+                <div id="ingredients-list" class="dynamic-list">
+                    <!-- Dynamic items will be added here -->
+                    <div class="dynamic-item">
+                        <input type="text" class="form-control" placeholder="e.g., 2 cups flour">
+                    </div>
+                </div>
+                <button type="button" id="btn-add-ingredients" class="btn-add">+ Add Ingredient</button>
+                <p style="font-size: 0.8rem; color: #6c757d; margin-top: 0.5rem;">Tip: End a line with a colon (:) to
+                    make it a sub-header.</p>
+            </div>
+
+            <div class="form-group">
+                <label>Instructions</label>
+                <div id="instructions-list" class="dynamic-list">
+                    <!-- Dynamic items will be added here -->
+                    <div class="dynamic-item">
+                        <input type="text" class="form-control" placeholder="e.g., Preheat oven to 350°F.">
+                    </div>
+                </div>
+                <button type="button" id="btn-add-instructions" class="btn-add">+ Add Step</button>
+            </div>
+        </form>
+
+        <div class="preview-section">
+            <h3>Markdown Output</h3>
+            <p style="color: #6c757d; margin-bottom: 1rem;">Copy this content or download the file, then place it in
+                your <code>recipes/</code> folder.</p>
+
+            <div class="preview-controls">
+                <button id="btn-copy" class="btn" style="background: var(--color-text); border: none;">Copy to
+                    Clipboard</button>
+                <button id="btn-download" class="btn">Download .md File</button>
+            </div>
+
+            <textarea id="markdownOutput" readonly></textarea>
+        </div>
+    </div>
+
+    <script src="creator.js"></script>
+</body>
+
+</html>
