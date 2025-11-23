@@ -14,9 +14,26 @@ A premium, static cooking blog that uses a local build process to generate conte
 - `build.js`: The build script that generates `recipes.js`.
 - `recipes/`: Folder containing your recipe Markdown files.
 - `images/`: Folder containing your recipe images.
+- `admin/`: Folder containing the Recipe Creator App.
+
+## Recipe Creator Tool
+
+This project includes a local "Admin" interface to help you create new recipes without writing Markdown manually.
+
+- **Location**: `admin/index.html`
+- **Usage**: Open the file in your browser to access the form.
+- **Features**: Auto-generates the required Frontmatter and Markdown structure.
 
 ## How to Add a New Recipe
 
+### Option 1: Use the Recipe Creator App (Recommended)
+1. Open `admin/index.html` in your browser.
+2. Fill out the form with your recipe details.
+3. Click **Download .md File**.
+4. Move the downloaded file into the `recipes/` folder.
+5. Add your image to the `images/` folder.
+
+### Option 2: Manual Creation
 1.  **Create the Markdown File**:
     - Create a new file in the `recipes/` folder (e.g., `my-new-recipe.md`).
     - Use the following format (Frontmatter + Markdown):
