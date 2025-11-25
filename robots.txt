@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaerithskitchen.com/sitemap.xml
