@@ -160,13 +160,6 @@ recipes.forEach(recipe => {
                 <div class="card-meta" style="justify-content: center;">${recipe.category} • ${recipe.tags}</div>
                 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
                     <h1>${recipe.title}</h1>
-                    <button id="detail-favorite-btn" 
-                            class="favorite-btn detail-view" 
-                            data-id="${recipe.id}"
-                            onclick="toggleFavorite('${recipe.id}', event)"
-                            style="position: static; font-size: 2rem; background: none; border: none; cursor: pointer;">
-                        ♡
-                    </button>
                 </div>
                 <div class="recipe-meta-large">
                     <span>Prep: ${recipe.prep_time}</span>
