@@ -44,6 +44,23 @@ files.forEach(file => {
                 data.id = path.basename(file, '.md');
             }
 
+            // ISO 8601 Duration Helper
+            const toISO8601 = (str) => {
+                if (!str) return 'PT0M';
+                const match = str.match(/(\d+)\s*(min|hour|h|m)/i);
+                if (match) {
+                    const val = parseInt(match[1]);
+                    const unit = match[2].toLowerCase().startsWith('h') ? 'H' : 'M';
+                    return `PT${val}${unit}`;
+                }
+                return 'PT0M';
+            };
+
+            // Enhance data for SEO
+            data.isoPrepTime = toISO8601(data.prep_time);
+            data.isoCookTime = toISO8601(data.cook_time);
+            data.datePublished = new Date().toISOString().split('T')[0]; // Default to today for now, ideally from git
+
             recipes.push(data);
             console.log(`Processed: ${file}`);
         } else {
