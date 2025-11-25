@@ -196,6 +196,10 @@ recipes.forEach(recipe => {
     html = html.replace('href="styles.css"', 'href="../../styles.css"');
     html = html.replace('src="script.js"', 'src="../../script.js"');
     html = html.replace('src="recipes.js"', 'src="../../recipes.js"');
+
+    // Fix Navigation Links (use relative paths for local/remote compatibility)
+    html = html.replace(/href="index\.html"/g, 'href="../../index.html"');
+    html = html.replace(/href="index\.html#recipes"/g, 'href="../../index.html#recipes"');
     // Note: Images in recipeHtml are already handled with ../../ prefix above
 
     // SEO Metadata Injection

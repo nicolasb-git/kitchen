@@ -62,6 +62,16 @@ async function deploy() {
 
         await client.cd('..');
 
+        // Upload recipes directory
+        console.log('\nUploading recipe pages...');
+        await client.uploadFromDir('recipes', 'recipes');
+        console.log('Recipe pages uploaded!');
+
+        // Upload sitemap and robots.txt
+        console.log('\nUploading SEO files...');
+        await client.uploadFrom('sitemap.xml', 'sitemap.xml');
+        await client.uploadFrom('robots.txt', 'robots.txt');
+
         console.log('\nDeployment complete!');
     } catch (err) {
         console.error('Deployment failed:', err);

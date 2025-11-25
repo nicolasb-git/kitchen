@@ -42,7 +42,7 @@ function loadRecipeGrid() {
     grid.innerHTML = recipes.map(recipe => `
         <article class="recipe-card" data-tags="${recipe.tags}" onclick="window.location.href='recipes/${recipe.id}/index.html'">
             <div class="card-image">
-                <img src="${recipe.image}" alt="${recipe.title}">
+                <img src="${recipe.image}" alt="${recipe.title}" loading="lazy">
             </div>
             <div class="card-content">
                 <div class="card-meta">${recipe.category} • ${recipe.prep_time}</div>
