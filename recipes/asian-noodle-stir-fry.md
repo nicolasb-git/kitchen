@@ -6,7 +6,7 @@ prep_time: 15 mins
 cook_time: 20 mins
 servings: 5 to 6
 category: Anytime
-tags: Healthy, Quick, Vegetarian
+tags: Healthy, Quick, Vegetarian, Pasta
 description: A flavorful Asian-inspired noodle stir-fry with colorful vegetables, plant-based protein, and a creamy peanut-coconut sauce.
 ---
 

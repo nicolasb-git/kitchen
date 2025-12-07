@@ -7,7 +7,7 @@ window.recipes = [
         "cook_time": "20 mins",
         "servings": "5 to 6",
         "category": "Anytime",
-        "tags": "Healthy, Quick, Plant-Based, Vegetarian",
+        "tags": "Healthy, Quick, Vegetarian, Pasta",
         "description": "A flavorful Asian-inspired noodle stir-fry with colorful vegetables, plant-based protein, and a creamy peanut-coconut sauce.",
         "content": "### Ingredients\r\n- [ ] 500 g Asian wheat noodles\r\n- [ ] 2 bell peppers\r\n- [ ] 3–4 zucchinis\r\n- [ ] 250 g plant-based strips\r\n- [ ] Ginger (to taste)\r\n- [ ] Garlic powder (to taste)\r\n- [ ] Soy sauce\r\n- [ ] Oyster sauce (to taste)\r\n- [ ] Peanut butter\r\n- [ ] Coconut milk\r\n- [ ] Curry powder\r\n\r\n### Instructions\r\n1. **Prepare the vegetables**  \r\n   Wash and slice the bell peppers into strips. Set aside in a mixing bowl. Peel, wash, and make zucchini ribbons. Add them to the same bowl.\r\n\r\n2. **Marinate the veggies**  \r\n   Add soy sauce to the bowl and let the vegetables marinate.\r\n\r\n3. **Cook the plant-based strips**  \r\n   In a wok, sauté the plant-based strips until they start to brown slightly.\r\n\r\n4. **Combine and season**  \r\n   Add the marinated vegetables to the wok. Stir-fry while adding ginger, garlic powder, 1 or 2 spoon(s) of peanut butter, curry powder, and coconut milk. Stir regularly.\r\n\r\n5. **Cook the noodles**  \r\n   In parallel, cook the noodles according to package instructions. Drain well.\r\n\r\n6. **Mix everything together**  \r\n   Add the noodles to the wok. Lower the heat and pour in oyster sauce to taste. Mix thoroughly.\r\n\r\n7. **Serve immediately**  \r\n  \r\n",
         "isoPrepTime": "PT15M",
