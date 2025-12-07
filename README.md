@@ -47,7 +47,7 @@ This project includes a local "Admin" interface to help you create new recipes w
     prep_time: 15 mins
     cook_time: 30 mins
     servings: 4
-    category: Dinner
+    category: A
     tags: Healthy, Quick
     description: A short description that appears on the card.
     ---

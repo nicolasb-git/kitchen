@@ -1,5 +1,20 @@
 window.recipes = [
     {
+        "id": "asian-noodle-stir-fry",
+        "title": "Asian Noodle Stir-Fry with Veggies",
+        "image": "images/asian-noodle-stir-fry.jpg",
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "servings": "5 to 6",
+        "category": "Anytime",
+        "tags": "Healthy, Quick, Plant-Based, Vegetarian",
+        "description": "A flavorful Asian-inspired noodle stir-fry with colorful vegetables, plant-based protein, and a creamy peanut-coconut sauce.",
+        "content": "### Ingredients\r\n- [ ] 500 g Asian wheat noodles\r\n- [ ] 2 bell peppers\r\n- [ ] 3–4 zucchinis\r\n- [ ] 250 g plant-based strips\r\n- [ ] Ginger (to taste)\r\n- [ ] Garlic powder (to taste)\r\n- [ ] Soy sauce\r\n- [ ] Oyster sauce (to taste)\r\n- [ ] Peanut butter\r\n- [ ] Coconut milk\r\n- [ ] Curry powder\r\n\r\n### Instructions\r\n1. **Prepare the vegetables**  \r\n   Wash and slice the bell peppers into strips. Set aside in a mixing bowl. Peel, wash, and make zucchini ribbons. Add them to the same bowl.\r\n\r\n2. **Marinate the veggies**  \r\n   Add soy sauce to the bowl and let the vegetables marinate.\r\n\r\n3. **Cook the plant-based strips**  \r\n   In a wok, sauté the plant-based strips until they start to brown slightly.\r\n\r\n4. **Combine and season**  \r\n   Add the marinated vegetables to the wok. Stir-fry while adding ginger, garlic powder, 1 or 2 spoon(s) of peanut butter, curry powder, and coconut milk. Stir regularly.\r\n\r\n5. **Cook the noodles**  \r\n   In parallel, cook the noodles according to package instructions. Drain well.\r\n\r\n6. **Mix everything together**  \r\n   Add the noodles to the wok. Lower the heat and pour in oyster sauce to taste. Mix thoroughly.\r\n\r\n7. **Serve immediately**  \r\n  \r\n",
+        "isoPrepTime": "PT15M",
+        "isoCookTime": "PT20M",
+        "datePublished": "2025-12-07"
+    },
+    {
         "id": "endives-au-jambon",
         "title": "Endives au Jambon with Raclette",
         "image": "images/endives-au-jambon.jpg",
@@ -12,7 +27,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 8 slices of ham\r\n- [ ] 1.5 kg endives\r\n- [ ] 30 g butter\r\n- [ ] 30 g flour\r\n- [ ] 20 cl milk\r\n- [ ] 150–200 g raclette cheese, sliced\r\n- [ ] 50 g cream\r\n- [ ] Salt\r\n- [ ] Black pepper\r\n\r\n### Instructions\r\n\r\n1. **Cook the Endives**  \r\n   Boil the endives in a large pot of water for about 20 minutes. Drain thoroughly to remove excess moisture.\r\n\r\n2. **Roll the Endives**  \r\n   Place one cooked endive on each slice of ham and roll tightly.\r\n\r\n3. **Arrange in the Baking Dish**  \r\n   Place the ham-wrapped endives in a baking dish.\r\n\r\n4. **Prepare the Sauce**  \r\n   Melt the butter in a saucepan. Add the flour and stir to form a roux. Gradually add the milk while whisking until smooth. Stir in the cream and season with salt and pepper.\r\n\r\n5. **Cover and Top with Raclette**  \r\n   Pour the sauce over the endives and top with slices of raclette cheese.\r\n\r\n6. **Bake**  \r\n   Bake in the oven at 200 °C (390 °F) for 30–35 minutes, until the raclette is melted and golden.\r\n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT55M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "galette-oeuf-fromage",
@@ -27,7 +42,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 1 Buckwheat Galette (pre-made or homemade)\r\n- [ ] 1 Egg\r\n- [ ] ½ cup Grated Emmental (or Comté or Gruyère)\r\n- [ ] 1 tsp Butter\r\n- [ ] Salt and Black Pepper\r\n\r\n### Instructions\r\n\r\n1. **Prepare the Galette**  \r\n   Heat a large skillet or crêpe pan over medium heat. Add the butter and let it melt. Place the buckwheat galette flat on the pan.\r\n\r\n2. **Add the Egg**  \r\n   Crack the egg in the center of the galette. Let the white begin to set slightly while keeping the yolk intact. Season lightly with salt and pepper.\r\n\r\n3. **Add the Cheese**  \r\n   Sprinkle the grated cheese evenly around the egg, avoiding the yolk. Allow the cheese to melt while the egg cooks.\r\n\r\n4. **Fold and Serve**  \r\n   Fold the four edges of the galette inward to form a square, leaving the egg yolk visible in the center. Continue cooking until the cheese is fully melted and the galette edges are crisp. Serve immediately.\r\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT10M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "grilled-cheese",
@@ -42,7 +57,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 2 slices Bread (white, sourdough, or your choice)\r\n- [ ] 2 tbsp Butter, softened\r\n- [ ] 2-3 slices Cheese (cheddar, American, or Gruyère)\r\n- [ ] Optional: pinch of Garlic Powder\r\n- [ ] Optional: pinch of Black Pepper\r\n\r\n### Instructions\r\n1. **Butter the Bread**\r\n   Spread softened butter evenly on one side of each bread slice, making sure to cover all the way to the edges. This ensures even browning and prevents sticking.\r\n\r\n2. **Assemble the Sandwich**\r\n   Place one slice of bread butter-side down on a plate. Layer the cheese slices on top. If using optional seasonings, sprinkle them on the cheese. Top with the second bread slice, butter-side up.\r\n\r\n3. **Cook Low and Slow**\r\n   Heat a skillet or griddle over medium-low heat. Place the sandwich in the pan and cook for 3-4 minutes without moving it, until the bottom is golden brown and crispy. Press down gently with a spatula.\r\n\r\n4. **Flip and Finish**\r\n   Carefully flip the sandwich and cook the other side for 3-4 minutes until golden brown and the cheese is fully melted. If the cheese needs more time to melt, reduce heat to low and cover the pan for 1-2 minutes. Remove from heat, let rest for 1 minute, slice diagonally, and serve immediately.",
         "isoPrepTime": "PT5M",
         "isoCookTime": "PT8M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "manchons-de-canard",
@@ -57,7 +72,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 8 duck wings (manchons de canard) — 2 per person  \r\n- [ ] 3 tbsp olive oil  \r\n- [ ] 3 tbsp soy sauce (or Maggi seasoning)  \r\n- [ ] 1 tbsp whole-grain mustard  \r\n- [ ] 3 tbsp liquid honey or maple syrup  \r\n- [ ] 1 tbsp ketchup  \r\n- [ ] 1 small can tomato paste  \r\n- [ ] 1 tsp ground ginger  \r\n- [ ] Optional: potatoes to roast alongside\r\n\r\n---\r\n\r\n### Instructions\r\n\r\n1. **Prepare the Marinade**  \r\n   Preheat the oven to **210°C (410°F)**.  \r\n   In a mixing bowl, combine olive oil, soy sauce (or Maggi seasoning), whole-grain mustard, honey or maple syrup, ketchup, tomato paste, and ground ginger.\r\n\r\n2. **Marinate the Duck**  \r\n   Brush the duck wings generously with the marinade using a pastry brush (or your hands).  \r\n   Place them in a baking dish and pour any remaining marinade over them.  \r\n   Marinate for **at least 1 hour**, or up to overnight for deeper flavor.\r\n\r\n3. **Roast the Duck – First Side**  \r\n   Place the dish in the oven and roast for **20 minutes**, until the wings begin to caramelize.\r\n\r\n4. **Add Potatoes (Optional)**  \r\n   Turn the wings over.  \r\n   If using potatoes, add them now. The rendered duck fat will help cook and flavor them.\r\n\r\n5. **Roast the Duck – Second Side**  \r\n   Continue roasting for **20 more minutes**.  \r\n   Depending on your oven, you may need to extend cooking by **5 minutes per side** for deeper caramelization.\r\n\r\n6. **Serve**  \r\n   Serve immediately while hot, with the caramelized sauce and optional roasted potatoes.\r\n\r\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT40M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "moroccan-chicken-olives",
@@ -72,7 +87,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 2 Chicken Thighs (or 1 whole chicken)\r\n- [ ] 2 cloves Garlic\r\n- [ ] 2 Onions, cut into pieces\r\n- [ ] 2 tbsp Neutral Oil (vegetable or canola)\r\n- [ ] 1 tbsp Olive Oil\r\n- [ ] Fresh Parsley, chopped\r\n- [ ] Fresh Coriander (cilantro), chopped\r\n- [ ] Moroccan Spices (cumin, paprika, ginger, turmeric, black pepper)\r\n- [ ] 1 cup Water\r\n- [ ] 1 cup black Olives\r\n- [ ] 2 small pieces Preserved Lemon\r\n- [ ] 2 tbsp Butter\r\n- [ ] Salt to taste\r\n\r\n### Instructions\r\n1. **Prepare the Marinade**\r\n   In a bowl, combine all the Moroccan spices with the garlic cloves and chopped onion pieces. Add the neutral oil, olive oil, chopped parsley, and coriander. Mix well to create a paste. Coat the chicken thoroughly with this spice mixture. For best results, let the chicken marinate for a few hours in the refrigerator, but you can also cook it immediately.\r\n\r\n2. **Cook the Chicken**\r\n   Place the marinated chicken in a large pot or Dutch oven. Add one cup of water. Cover and cook on low heat for 1 hour, turning the chicken occasionally to ensure even cooking. The chicken should become tender and the flavors will develop beautifully.\r\n\r\n3. **Add Olives and Preserved Lemon**\r\n   After one hour, remove the chicken from the pot. Cut the preserved lemon into small pieces and add them to the sauce along with the black olives. Stir to combine and let cook for about 20 minutes to allow the flavors to meld together. Turn off the heat.\r\n\r\n4. **Brown and Serve**\r\n   Preheat your oven to 400°F (200°C). Spread butter over the chicken pieces to give them a beautiful golden color. Place the chicken in an oven-safe dish and brown in the oven for 10-15 minutes until the skin is crispy and golden. To serve, spoon the sauce with olives and preserved lemon onto plates first, then place the browned chicken on top. Serve hot with homemade fries or crusty bread.",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT1H",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "pasta",
@@ -87,7 +102,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 1 lb Fettuccine or Tagliatelle\r\n- [ ] 2 tbsp Olive Oil\r\n- [ ] 1 lb Mixed Wild Mushrooms\r\n- [ ] 3 cloves Garlic, minced\r\n- [ ] 1 cup Heavy Cream\r\n- [ ] 1/2 cup Parmesan Cheese\r\n- [ ] Fresh Parsley, chopped\r\n- [ ] Salt and Black Pepper\r\n\r\n### Instructions\r\n1. **Prepare the Mushrooms**\r\n   Clean the mushrooms with a damp cloth and slice them. Heat olive oil in a large skillet over medium-high heat. Add the mushrooms and cook until golden brown and moisture has evaporated, about 8-10 minutes.\r\n\r\n2. **Cook the Pasta**\r\n   While mushrooms are cooking, bring a large pot of salted water to a boil. Add pasta and cook according to package directions until al dente. Reserve 1/2 cup of pasta water before draining.\r\n\r\n3. **Make the Sauce**\r\n   Reduce heat to medium. Add minced garlic to the mushrooms and sauté for 1 minute until fragrant. Pour in the heavy cream and simmer for 2-3 minutes until slightly thickened.\r\n\r\n4. **Combine and Serve**\r\n   Stir in the parmesan cheese. Add the drained pasta to the skillet along with a splash of reserved pasta water if needed to loosen the sauce. Toss to coat evenly. Season with salt and pepper. Garnish with fresh parsley and serve immediately.\r\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT20M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "rougail-saucisses",
@@ -102,7 +117,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 1.5 lbs Smoked Sausages (or Toulouse sausages)\r\n- [ ] 4 medium Tomatoes, diced\r\n- [ ] 2 large Onions, sliced\r\n- [ ] 3 cloves Garlic, minced\r\n- [ ] 1-2 Fresh Chili Peppers, chopped\r\n- [ ] 2 tbsp Vegetable Oil\r\n- [ ] 1 tbsp Tomato Paste\r\n- [ ] 1 sprig Thyme\r\n- [ ] 1 Bay Leaf\r\n- [ ] Salt and Black Pepper\r\n- [ ] Fresh Parsley or Cilantro for garnish\r\n\r\n### Instructions\r\n1. **Prepare the Sausages**\r\n   Cut the sausages into bite-sized pieces (about 2-inch chunks). If using smoked sausages, you can blanch them briefly in boiling water to remove excess salt, then drain.\r\n\r\n2. **Sauté the Aromatics**\r\n   Heat oil in a large skillet or Dutch oven over medium heat. Add the sliced onions and cook until softened and translucent, about 5-7 minutes. Add minced garlic and chopped chili peppers, sauté for 1-2 minutes until fragrant.\r\n\r\n3. **Build the Sauce**\r\n   Add the diced tomatoes and tomato paste to the pan. Stir well and cook for 5 minutes until tomatoes begin to break down. Add thyme and bay leaf. Season with salt and pepper.\r\n\r\n4. **Simmer and Serve**\r\n   Add the sausage pieces to the sauce and stir to coat. Reduce heat to low, cover, and simmer for 15-20 minutes, stirring occasionally. The sauce should thicken and the flavors meld together. Remove bay leaf and thyme sprig. Garnish with fresh herbs and serve hot over white rice.",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT30M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "salad",
@@ -117,7 +132,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 4 cups Mixed Greens\r\n- [ ] 1 cup Cherry Tomatoes, halved\r\n- [ ] 1 Cucumber, sliced\r\n- [ ] 1 Avocado, diced\r\n- [ ] 1/4 Red Onion, thinly sliced\r\n- [ ] 2 tbsp Lemon Juice\r\n- [ ] 3 tbsp Extra Virgin Olive Oil\r\n- [ ] Salt and Pepper\r\n\r\n### Instructions\r\n1. **Prep the Vegetables**\r\n   Wash and dry the mixed greens thoroughly. Slice the cherry tomatoes in half, slice the cucumber into rounds, and dice the avocado.\r\n\r\n2. **Make the Dressing**\r\n   In a small jar or bowl, whisk together the lemon juice, extra virgin olive oil, salt, and pepper until emulsified.\r\n\r\n3. **Assemble**\r\n   In a large salad bowl, combine the greens, tomatoes, cucumber, and red onion. Drizzle with half the dressing and toss gently to coat.\r\n\r\n4. **Finish and Serve**\r\n   Top with the diced avocado (adding it last prevents it from getting mashed). Drizzle with the remaining dressing and serve immediately.\r\n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT0M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "savory-mashed-sweet-potatoes",
@@ -132,7 +147,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 2–3 potatoes, peeled and cut into chunks\r\n- [ ] 750 g sweet potatoes, peeled and cut into chunks\r\n- [ ] 40–60 g butter (to taste)\r\n- [ ] 3–4 tbsp sour cream\r\n- [ ] Salt\r\n- [ ] Black pepper (optional)\r\n\r\n### Instructions\r\n\r\n1. **Steam the Potatoes**  \r\n   Place the potatoes and sweet potatoes in a steamer basket. Steam for 20–25 minutes, or until both are very tender when pierced with a knife.\r\n\r\n2. **Combine in a Bowl**  \r\n   Transfer the cooked potatoes and sweet potatoes to a large mixing bowl.\r\n\r\n3. **Add the Creaminess**  \r\n   Add butter and sour cream. Season with salt, and black pepper if desired.\r\n\r\n4. **Mash**  \r\n   Mash everything together until the texture is as smooth or rustic as you prefer. Adjust seasoning, butter, or sour cream to taste.\r\n\r\n5. **Serve**  \r\n   Serve hot as a savory side dish.\r\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT25M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "tartiflette",
@@ -147,7 +162,7 @@ window.recipes = [
         "content": "### Ingredients\r\n- [ ] 2.5 lbs Potatoes (Yukon Gold or similar)\r\n- [ ] 8 oz Bacon or Lardons, diced\r\n- [ ] 2 large Onions, thinly sliced\r\n- [ ] 2 cloves Garlic, minced\r\n- [ ] 1 cup Dry White Wine\r\n- [ ] 1 cup Heavy Cream\r\n- [ ] 1 whole Reblochon Cheese (about 1 lb)\r\n- [ ] 2 tbsp Butter\r\n- [ ] Fresh Thyme\r\n- [ ] Salt and Black Pepper\r\n- [ ] Fresh Parsley for garnish\r\n\r\n### Instructions\r\n1. **Cook the Potatoes**\r\n   Peel the potatoes and cut them into thick slices (about 1/4 inch). Boil in salted water for 10-12 minutes until just tender but not falling apart. They should still have some firmness. Drain and set aside.\r\n\r\n2. **Prepare the Bacon and Onions**\r\n   In a large skillet, cook the bacon or lardons over medium heat until crispy, about 5-7 minutes. Remove and set aside. In the same pan with the bacon fat, add butter and sauté the sliced onions until soft and golden, about 8-10 minutes. Add minced garlic and cook for 1 minute more. Season with salt, pepper, and fresh thyme.\r\n\r\n3. **Deglaze and Combine**\r\n   Pour the white wine into the skillet with the onions and let it simmer for 2-3 minutes to reduce slightly. Add the cooked potatoes and bacon back to the pan. Gently toss to combine. Pour in the heavy cream and stir carefully to coat everything evenly.\r\n\r\n4. **Assemble and Bake**\r\n   Preheat oven to 375°F (190°C). Transfer the potato mixture to a large baking dish. Cut the Reblochon cheese in half horizontally to create two rounds. Place the cheese halves on top of the potatoes, rind-side up. Bake for 25-30 minutes until the cheese is melted and bubbly and the top is golden brown. Let rest for 5 minutes, garnish with fresh parsley, and serve hot with a green salad and crusty bread.",
         "isoPrepTime": "PT20M",
         "isoCookTime": "PT40M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     },
     {
         "id": "vegetarian-ratatouille-lasagna",
@@ -162,6 +177,6 @@ window.recipes = [
         "content": "### Ingredients\r\n#### Ratatouille\r\n- [ ] 1 medium eggplant, diced\r\n- [ ] 2 zucchinis, diced\r\n- [ ] 1 red bell pepper, diced\r\n- [ ] 1 yellow bell pepper, diced\r\n- [ ] 1 onion, diced\r\n- [ ] 3 cloves garlic, minced\r\n- [ ] 4 medium tomatoes, diced (or 1 can diced tomatoes)\r\n- [ ] 3 tbsp olive oil\r\n- [ ] 1 tsp dried thyme\r\n- [ ] 1 tsp dried oregano\r\n- [ ] Salt and black pepper\r\n#### Lasagna\r\n- [ ] 12 lasagna sheets (pre-cooked or no-boil)\r\n- [ ] 200 g vegan haché (plant-based minced protein)\r\n- [ ] 400 g tomato sauce\r\n- [ ] 50 g butter\r\n- [ ] 50 g flour\r\n- [ ] 500 ml milk (or plant-based alternative)\r\n- [ ] Salt and black pepper\r\n- [ ] 200 g raclette cheese, sliced\r\n- [ ] 150 g shredded mozzarella (or plant-based mozzarella for vegan option)\r\n- [ ] Olive oil\r\n\r\n### Instructions\r\n\r\n1. **Prepare the Ratatouille**\r\n   Heat olive oil in a large skillet over medium heat. Sauté onion and garlic until softened, about 3-4 minutes. Add eggplant and bell peppers, cook for 5–6 minutes until slightly tender. Add zucchini and tomatoes. Season with thyme, oregano, salt, and pepper. Simmer on low heat for 15–20 minutes, stirring occasionally, until vegetables are tender and flavors meld. Set aside.\r\n\r\n2. **Prepare the Béchamel**\r\n   In a saucepan, melt butter over medium heat. Add flour and stir to form a roux. Gradually whisk in milk until smooth. Season with salt and pepper. Set aside.\r\n\r\n3. **Cook the Vegan Haché**\r\n   In a skillet, heat a drizzle of olive oil. Cook vegan haché until lightly browned. Stir in half of the tomato sauce and combine well. Set aside.\r\n\r\n4. **Assemble the Lasagna**\r\n   Preheat oven to 180°C (350°F). Spread a thin layer of tomato sauce on the bottom of a baking dish. Place a layer of lasagna sheets. Spread some ratatouille over the sheets. Add a layer of vegan haché with tomato sauce. Pour a little béchamel over and top with slices of raclette cheese. Repeat layers until ingredients are used, finishing with béchamel and raclette.\r\n\r\n5. **Top and Bake**\r\n   Sprinkle shredded mozzarella over the top. Cover with foil and bake for 30 minutes. Remove foil and bake 10–15 minutes more until golden and bubbling.\r\n\r\n6. **Serve**\r\n   Let rest for 5–10 minutes before slicing. Serve warm, ideally with a fresh green salad.\r\n",
         "isoPrepTime": "PT45M",
         "isoCookTime": "PT50M",
-        "datePublished": "2025-11-25"
+        "datePublished": "2025-12-07"
     }
 ];
