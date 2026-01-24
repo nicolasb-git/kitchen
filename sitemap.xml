@@ -11,6 +11,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://kaerithskitchen.com/recipes/enchiladas/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://kaerithskitchen.com/recipes/endives-au-jambon/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
