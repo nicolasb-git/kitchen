@@ -26,10 +26,10 @@ description: My version of the mexicans enchiladas but vegetarian.
    Slice the oignon, cook it with vegetal oil and a part of the sauce
 
 2. **Cook the haché**  
-   Cook the haché with the oignons
+   Cook the haché with the oignons + red beans + part of the sauce
 
 3. **Arrange in the Baking Dish**  
-   Roll each wrap with the oignon/haché mix + slice of cheddar + red beans + maïs.
+   Roll each wrap with the oignon/haché mix + slice of cheddar + the cooked haché + maïs.
    Dispose in the gratin plate.
    Do it again until there is no more left
 
