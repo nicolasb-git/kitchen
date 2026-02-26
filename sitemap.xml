@@ -31,12 +31,22 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://kaerithskitchen.com/recipes/lentil-bolognese/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://kaerithskitchen.com/recipes/manchons-de-canard/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://kaerithskitchen.com/recipes/moroccan-chicken-olives/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://kaerithskitchen.com/recipes/mushroom-soup/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
