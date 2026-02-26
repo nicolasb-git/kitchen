@@ -82,7 +82,7 @@ window.recipes = [
         "cook_time": "40 mins",
         "servings": "5",
         "category": "Main",
-        "tags": "Vegetarian, Lentils, Pasta, Comfort Food",
+        "tags": "Vegan, Lentils, Pasta, Comfort Food",
         "description": "A hearty and flavourful lentil bolognese with smoky spices, crushed tomatoes, and a hint of red wine — a plant-based take on a classic.",
         "content": "### Ingredients\r\n\r\n- [ ] 85 g dry green lentils\r\n- [ ] 40 g yellow onions\r\n- [ ] 8 g garlic\r\n- [ ] 5 cl red wine\r\n- [ ] 50 g carrots\r\n- [ ] 170 g crushed tomatoes\r\n- [ ] 80 g double tomato paste\r\n- [ ] 25 cl water\r\n- [ ] Aromatic herbs (to taste)\r\n- [ ] Salt (to taste)\r\n- [ ] Pepper (to taste)\r\n- [ ] Espelette chilli (to taste)\r\n- [ ] Smoked sweet paprika La Vera (to taste)\r\n\r\n### Instructions\r\n\r\n1. **Sauté aromatics**\r\n   Sauté the onions and garlic until softened.\r\n2. **Sweat lentils**\r\n   Add the lentils, carrots, aromatic herbs and spices. Sweat for 2 minutes over low heat, stirring regularly.\r\n3. **Deglaze**\r\n   Deglaze with the red wine and allow to absorb (approx. 1 minute).\r\n4. **Add tomatoes**\r\n   Add the crushed tomatoes and the tomato paste diluted in the water.\r\n5. **Simmer**\r\n   Season, then simmer over low heat for approximately 40 minutes (check lentil doneness).\r\n6. **Adjust water**\r\n   Add water as needed during cooking.\r\n7. **Finish and blend**\r\n   At the end of cooking, blend lightly to reach the desired texture.",
         "isoPrepTime": "PT10M",
