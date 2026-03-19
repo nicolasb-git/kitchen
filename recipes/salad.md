@@ -6,7 +6,7 @@ prep_time: 15 mins
 cook_time: 0 mins
 servings: 2
 category: Lunch
-tags: Healthy, Vegan, Vegetarian, Gluten-Free
+tags: Healthy, Vegan, Vegetarian, salad
 description: Crisp greens, sweet cherry tomatoes, and creamy avocado tossed in a zesty lemon vinaigrette. The perfect light lunch.
 ---
 

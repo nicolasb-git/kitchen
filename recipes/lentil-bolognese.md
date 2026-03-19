@@ -6,7 +6,7 @@ prep_time: 10 mins
 cook_time: 40 mins
 servings: 5
 category: Main
-tags: Vegan, Lentils, Pasta, Comfort Food
+tags: Vegan, Pasta, Comfort Food
 description: A hearty and flavourful lentil bolognese with smoky spices, crushed tomatoes, and a hint of red wine — a plant-based take on a classic.
 ---
 

@@ -6,7 +6,7 @@ prep_time: 10 mins
 cook_time: 10 mins
 servings: 1
 category: Anytime
-tags: Breton, Savory-Crêpe, Quick, French, Cheese, Vegetarian, Comfort Food
+tags: Breton, Quick, French, Cheese, Vegetarian, Comfort Food
 description: A classic Breton buckwheat galette filled with melted cheese and a runny egg, traditionally cooked on a “billig” and served folded into a square.
 ---
 
