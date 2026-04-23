@@ -6,6 +6,23 @@ A premium, static cooking blog that uses a local build process to generate conte
 
 - **Node.js**: You need Node.js installed on your computer to run the build script. [Download Node.js](https://nodejs.org/)
 
+## Configuration
+
+To deploy the site, you need to configure your FTP credentials.
+
+1.  Copy the `.env.example` file to a new file named `.env`:
+    ```bash
+    cp .env.example .env
+    ```
+2.  Open `.env` and fill in your FTP server details:
+    - `FTP_HOST`: Your FTP server hostname.
+    - `FTP_USER`: Your FTP username.
+    - `FTP_PASSWORD`: Your FTP password.
+    - `FTP_REMOTE_ROOT`: The directory on the server where the site should be uploaded.
+
+> [!WARNING]
+> Never commit your `.env` file to version control. It contains sensitive credentials.
+
 ## Project Structure
 
 - `index.html`: The main landing page.
@@ -13,6 +30,8 @@ A premium, static cooking blog that uses a local build process to generate conte
 - `script.js`: Frontend logic (routing, interactions).
 - `build.js`: The build script that generates `recipes.js`.
 - `publish.js`: Deployment script that uploads files to FTP server.
+- `.env`: (Local only) Your FTP credentials.
+- `.env.example`: Template for environment variables.
 - `recipes/`: Folder containing your recipe Markdown files.
 - `images/`: Folder containing your recipe images.
 - `admin/`: Folder containing the Recipe Creator App.
@@ -89,10 +108,11 @@ Simply open `index.html` in your web browser. No local server is needed!
 
 ## How to Deploy
 
-1.  Run `node build.js` to ensure everything is up to date.
-2.  Run the deployment script:
+1.  **Setup Credentials**: Ensure you have a `.env` file with correct FTP credentials (see [Configuration](#configuration)).
+2.  **Rebuild**: Run `node build.js` to ensure everything is up to date.
+3.  **Deploy**: Run the deployment script:
     ```bash
     npm install # only the first time
     node publish.js
     ```
-3.  This will automatically upload your site to the configured FTP server.
+4.  This will automatically upload your site to the configured FTP server.
