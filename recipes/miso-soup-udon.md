@@ -6,7 +6,7 @@ prep_time: 10 mins
 cook_time: 10 mins
 servings: 1
 category: Anytime
-tags: Japanese, Quick, Healthy, Soup
+tags: Japanese, Quick, Healthy, Soup, Asian
 description: A warm, comforting Japanese-style miso soup served with udon noodles.
 ---
 

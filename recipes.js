@@ -7,12 +7,12 @@ window.recipes = [
         "cook_time": "20 mins",
         "servings": "5 to 6",
         "category": "Anytime",
-        "tags": "Healthy, Quick, Vegetarian, Pasta",
+        "tags": "Healthy, Quick, Vegetarian, Pasta, Asian",
         "description": "A flavorful Asian-inspired noodle stir-fry with colorful vegetables, plant-based protein, and a creamy peanut-coconut sauce.",
         "content": "### Ingredients\n- [ ] 500 g Asian wheat noodles\n- [ ] 2 bell peppers\n- [ ] 3–4 zucchinis\n- [ ] 250 g plant-based strips\n- [ ] Ginger (to taste)\n- [ ] Garlic powder (to taste)\n- [ ] Soy sauce\n- [ ] Oyster sauce (to taste)\n- [ ] Peanut butter\n- [ ] Coconut milk\n- [ ] Curry powder\n\n### Instructions\n1. **Prepare the vegetables**  \n   Wash and slice the bell peppers into strips. Set aside in a mixing bowl. Peel, wash, and make zucchini ribbons. Add them to the same bowl.\n\n2. **Marinate the veggies**  \n   Add soy sauce to the bowl and let the vegetables marinate.\n\n3. **Cook the plant-based strips**  \n   In a wok, sauté the plant-based strips until they start to brown slightly.\n\n4. **Combine and season**  \n   Add the marinated vegetables to the wok. Stir-fry while adding ginger, garlic powder, 1 or 2 spoon(s) of peanut butter, curry powder, and coconut milk. Stir regularly.\n\n5. **Cook the noodles**  \n   In parallel, cook the noodles according to package instructions. Drain well.\n\n6. **Mix everything together**  \n   Add the noodles to the wok. Lower the heat and pour in oyster sauce to taste. Mix thoroughly.\n\n7. **Serve immediately**  \n  \n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT20M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "crisped-chicken-pokebowl",
@@ -27,7 +27,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2 cups Sushi rice, seasoned with rice vinegar and sugar\n- [ ] 2 Chicken breasts (or Salmon), sliced\n- [ ] 1 Avocado, sliced\n- [ ] 1/2 Cucumber, sliced\n- [ ] 1/2 Mango, diced\n- [ ] 4 Radishes, thinly sliced\n- [ ] 1/2 cup Edamame, cooked\n- [ ] Cornstarch (for coating chicken)\n- [ ] Soy sauce and Sesame oil\n\n### Instructions\n\n1. **Prepare the Rice**  \n   Cook the sushi rice according to package instructions. While warm, gently fold in a mixture of rice vinegar, sugar, and salt. Let it cool to room temperature.\n\n2. **Crisp the Protein**  \n   If using chicken, toss the pieces in cornstarch. Sear in a hot pan with oil until crispy and golden. If using salmon, you can sear it or serve it raw (sushi-grade) depending on your preference.\n\n3. **Prep the Toppings**  \n   Slice the avocado, cucumber, and radishes. Dice the mango and ensure the edamame is cooked and shelled.\n\n4. **Build the Bowl**  \n   Start with a generous base of seasoned rice in each bowl.\n\n5. **Arrange the Ingredients**  \n   Group the avocado, cucumber, mango, radish, and edamame on top of the rice, leaving space in the center.\n\n6. **Serve**  \n   Place the crispy chicken (or salmon) in the center. Drizzle with soy sauce or your favorite ginger-soy dressing.\n",
         "isoPrepTime": "PT25M",
         "isoCookTime": "PT15M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "enchiladas",
@@ -42,7 +42,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 16 WRAPS\n- [ ] 1 oignon\n- [ ] 500 g of vegetarian haché\n- [ ] 16 slices of cheddar\n- [ ] Old el Paso sauce (at will)\n- [ ] Gratted cheese (at will)\n- [ ] maïs (at will)\n- [ ] red beans\n\n### Instructions\n\n1. **Cook the oignon**  \n   Slice the oignon, cook it with vegetal oil and a part of the sauce\n\n2. **Cook the haché**  \n   Cook the haché with the oignons + red beans + part of the sauce\n\n3. **Arrange in the Baking Dish**  \n   Roll each wrap with the oignon/haché mix + slice of cheddar + the cooked haché + maïs.\n   Dispose in the gratin plate.\n   Do it again until there is no more left\n\n4. **Add gratted cheese onto of the preparation**\n   Add also the rest of the sauce\n\n6. **Bake**  \n   Bake in the oven at 200 °C (390 °F) for 30–35 minutes, until the cheese is melted and golden.\n",
         "isoPrepTime": "PT60M",
         "isoCookTime": "PT40M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "endives-au-jambon",
@@ -57,7 +57,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 8 slices of ham\n- [ ] 1.5 kg endives\n- [ ] 30 g butter\n- [ ] 30 g flour\n- [ ] 20 cl milk\n- [ ] 150–200 g raclette cheese, sliced\n- [ ] 50 g cream\n- [ ] Salt\n- [ ] Black pepper\n\n### Instructions\n\n1. **Cook the Endives**  \n   Boil the endives in a large pot of water for about 20 minutes. Drain thoroughly to remove excess moisture.\n\n2. **Roll the Endives**  \n   Place one cooked endive on each slice of ham and roll tightly.\n\n3. **Arrange in the Baking Dish**  \n   Place the ham-wrapped endives in a baking dish.\n\n4. **Prepare the Sauce**  \n   Melt the butter in a saucepan. Add the flour and stir to form a roux. Gradually add the milk while whisking until smooth. Stir in the cream and season with salt and pepper.\n\n5. **Cover and Top with Raclette**  \n   Pour the sauce over the endives and top with slices of raclette cheese.\n\n6. **Bake**  \n   Bake in the oven at 200 °C (390 °F) for 30–35 minutes, until the raclette is melted and golden.\n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT55M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "galette-oeuf-fromage",
@@ -72,7 +72,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 1 Buckwheat Galette (pre-made or homemade)\n- [ ] 1 Egg\n- [ ] ½ cup Grated Emmental (or Comté or Gruyère)\n- [ ] 1 tsp Butter\n- [ ] Salt and Black Pepper\n\n### Instructions\n\n1. **Prepare the Galette**  \n   Heat a large skillet or crêpe pan over medium heat. Add the butter and let it melt. Place the buckwheat galette flat on the pan.\n\n2. **Add the Egg**  \n   Crack the egg in the center of the galette. Let the white begin to set slightly while keeping the yolk intact. Season lightly with salt and pepper.\n\n3. **Add the Cheese**  \n   Sprinkle the grated cheese evenly around the egg, avoiding the yolk. Allow the cheese to melt while the egg cooks.\n\n4. **Fold and Serve**  \n   Fold the four edges of the galette inward to form a square, leaving the egg yolk visible in the center. Continue cooking until the cheese is fully melted and the galette edges are crisp. Serve immediately.\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT10M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "grilled-cheese",
@@ -87,7 +87,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2 slices Bread (white, sourdough, or your choice)\n- [ ] 2 tbsp Butter, softened\n- [ ] 2-3 slices Cheese (cheddar, American, or Gruyère)\n- [ ] Optional: pinch of Garlic Powder\n- [ ] Optional: pinch of Black Pepper\n\n### Instructions\n1. **Butter the Bread**\n   Spread softened butter evenly on one side of each bread slice, making sure to cover all the way to the edges. This ensures even browning and prevents sticking.\n\n2. **Assemble the Sandwich**\n   Place one slice of bread butter-side down on a plate. Layer the cheese slices on top. If using optional seasonings, sprinkle them on the cheese. Top with the second bread slice, butter-side up.\n\n3. **Cook Low and Slow**\n   Heat a skillet or griddle over medium-low heat. Place the sandwich in the pan and cook for 3-4 minutes without moving it, until the bottom is golden brown and crispy. Press down gently with a spatula.\n\n4. **Flip and Finish**\n   Carefully flip the sandwich and cook the other side for 3-4 minutes until golden brown and the cheese is fully melted. If the cheese needs more time to melt, reduce heat to low and cover the pan for 1-2 minutes. Remove from heat, let rest for 1 minute, slice diagonally, and serve immediately.",
         "isoPrepTime": "PT5M",
         "isoCookTime": "PT8M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "lentil-bolognese",
@@ -102,7 +102,7 @@ window.recipes = [
         "content": "### Ingredients\n\n- [ ] 85 g dry green lentils\n- [ ] 40 g yellow onions\n- [ ] 8 g garlic\n- [ ] 5 cl red wine\n- [ ] 50 g carrots\n- [ ] 170 g crushed tomatoes\n- [ ] 80 g double tomato paste\n- [ ] 25 cl water\n- [ ] Aromatic herbs (to taste)\n- [ ] Salt (to taste)\n- [ ] Pepper (to taste)\n- [ ] Espelette chilli (to taste)\n- [ ] Smoked sweet paprika La Vera (to taste)\n\n### Instructions\n\n1. **Sauté aromatics**\n   Sauté the onions and garlic until softened.\n2. **Sweat lentils**\n   Add the lentils, carrots, aromatic herbs and spices. Sweat for 2 minutes over low heat, stirring regularly.\n3. **Deglaze**\n   Deglaze with the red wine and allow to absorb (approx. 1 minute).\n4. **Add tomatoes**\n   Add the crushed tomatoes and the tomato paste diluted in the water.\n5. **Simmer**\n   Season, then simmer over low heat for approximately 40 minutes (check lentil doneness).\n6. **Adjust water**\n   Add water as needed during cooking.\n7. **Finish and blend**\n   At the end of cooking, blend lightly to reach the desired texture.",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT40M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "manchons-de-canard",
@@ -112,12 +112,12 @@ window.recipes = [
         "cook_time": "40 mins",
         "servings": "4",
         "category": "Dinner",
-        "tags": "Traditional, French",
+        "tags": "Traditional, Asian",
         "description": "Tender duck wings marinated in a sweet, savory, and slightly spiced glaze, then roasted until caramelized and golden.",
         "content": "### Ingredients\n- [ ] 8 duck wings (manchons de canard) — 2 per person  \n- [ ] 3 tbsp olive oil  \n- [ ] 3 tbsp soy sauce (or Maggi seasoning)  \n- [ ] 1 tbsp whole-grain mustard  \n- [ ] 3 tbsp liquid honey or maple syrup  \n- [ ] 1 tbsp ketchup  \n- [ ] 1 small can tomato paste  \n- [ ] 1 tsp ground ginger  \n- [ ] Optional: potatoes to roast alongside\n\n---\n\n### Instructions\n\n1. **Prepare the Marinade**  \n   Preheat the oven to **210°C (410°F)**.  \n   In a mixing bowl, combine olive oil, soy sauce (or Maggi seasoning), whole-grain mustard, honey or maple syrup, ketchup, tomato paste, and ground ginger.\n\n2. **Marinate the Duck**  \n   Brush the duck wings generously with the marinade using a pastry brush (or your hands).  \n   Place them in a baking dish and pour any remaining marinade over them.  \n   Marinate for **at least 1 hour**, or up to overnight for deeper flavor.\n\n3. **Roast the Duck – First Side**  \n   Place the dish in the oven and roast for **20 minutes**, until the wings begin to caramelize.\n\n4. **Add Potatoes (Optional)**  \n   Turn the wings over.  \n   If using potatoes, add them now. The rendered duck fat will help cook and flavor them.\n\n5. **Roast the Duck – Second Side**  \n   Continue roasting for **20 more minutes**.  \n   Depending on your oven, you may need to extend cooking by **5 minutes per side** for deeper caramelization.\n\n6. **Serve**  \n   Serve immediately while hot, with the caramelized sauce and optional roasted potatoes.\n\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT40M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "moroccan-chicken-olives",
@@ -132,7 +132,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2 Chicken Thighs (or 1 whole chicken)\n- [ ] 2 cloves Garlic\n- [ ] 2 Onions, cut into pieces\n- [ ] 2 tbsp Neutral Oil (vegetable or canola)\n- [ ] 1 tbsp Olive Oil\n- [ ] Fresh Parsley, chopped\n- [ ] Fresh Coriander (cilantro), chopped\n- [ ] Moroccan Spices (cumin, paprika, ginger, turmeric, black pepper)\n- [ ] 1 cup Water\n- [ ] 1 cup black Olives\n- [ ] 2 small pieces Preserved Lemon\n- [ ] 2 tbsp Butter\n- [ ] Salt to taste\n\n### Instructions\n1. **Prepare the Marinade**\n   In a bowl, combine all the Moroccan spices with the garlic cloves and chopped onion pieces. Add the neutral oil, olive oil, chopped parsley, and coriander. Mix well to create a paste. Coat the chicken thoroughly with this spice mixture. For best results, let the chicken marinate for a few hours in the refrigerator, but you can also cook it immediately.\n\n2. **Cook the Chicken**\n   Place the marinated chicken in a large pot or Dutch oven. Add one cup of water. Cover and cook on low heat for 1 hour, turning the chicken occasionally to ensure even cooking. The chicken should become tender and the flavors will develop beautifully.\n\n3. **Add Olives and Preserved Lemon**\n   After one hour, remove the chicken from the pot. Cut the preserved lemon into small pieces and add them to the sauce along with the black olives. Stir to combine and let cook for about 20 minutes to allow the flavors to meld together. Turn off the heat.\n\n4. **Brown and Serve**\n   Preheat your oven to 400°F (200°C). Spread butter over the chicken pieces to give them a beautiful golden color. Place the chicken in an oven-safe dish and brown in the oven for 10-15 minutes until the skin is crispy and golden. To serve, spoon the sauce with olives and preserved lemon onto plates first, then place the browned chicken on top. Serve hot with homemade fries or crusty bread.",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT1H",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "miso-soup-udon",
@@ -142,12 +142,12 @@ window.recipes = [
         "cook_time": "10 mins",
         "servings": "1",
         "category": "Anytime",
-        "tags": "Japanese, Quick, Healthy, Soup",
+        "tags": "Japanese, Quick, Healthy, Soup, Asian",
         "description": "A warm, comforting Japanese-style miso soup served with udon noodles.",
         "content": "### Ingredients\n- [ ] 1 tbsp miso\n- [ ] 1–2 sliced mushrooms\n- [ ] A pinch of dry wakame\n- [ ] 1/2 tbsp rice vinegar\n- [ ] 1 tbsp soy sauce\n- [ ] 1 grated carrot\n- [ ] Garlic powder (to taste)\n- [ ] ~30 cl water\n- [ ] Udon noodles\n\n### Instructions\n1. **Roast the mushrooms**  \n   Lightly roast the sliced mushrooms in a pan until they begin to brown.\n\n2. **Prepare the bowl**  \n   Add the roasted mushrooms to a bowl along with:\n   miso, dried wakame, rice vinegar, soy sauce, grated carrot, and garlic powder.\n\n3. **Cook the udon**  \n   Boil the udon noodles for about 3 minutes, then drain.\n\n4. **Boil the water**  \n   Bring approximately 30 cl of water to a boil.\n\n5. **Assemble the soup**  \n   Pour the boiled water into the prepared bowl and mix until the miso dissolves.\n\n6. **Add the udon**  \n   Add the cooked udon noodles to the bowl and serve hot.",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT10M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "mushroom-soup",
@@ -162,7 +162,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 1 pack of button mushrooms (250g-500g)\n- [ ] 4 medium potatoes\n- [ ] 1 onion\n- [ ] 4 cloves of garlic\n- [ ] Salt and black pepper\n- [ ] Nutmeg\n- [ ] Fresh parsley\n- [ ] 1 bouillon cube (vegetable)\n- [ ] 200 ml liquid cream\n- [ ] Butter for sautéing\n\n### Instructions\n1. **Sauté the vegetables**  \n   In a large pot or cocotte, melt some butter and sauté the sliced mushrooms, peeled and diced potatoes, minced onion, and minced garlic.\n\n2. **Sweat the mushrooms**  \n   Let them cook for a few minutes to allow the mushrooms to release their juices, stirring well.\n\n3. **Simmer**  \n   Add enough water to just cover the vegetables. Bring to a simmer over low heat, stirring occasionally.\n\n4. **Season**  \n   Add salt, pepper, a pinch of nutmeg, chopped parsley, and the crumbled bouillon cube.\n\n5. **Finish and Blend**  \n   Once the vegetables are tender, stir in the cream. Use an immersion blender to mix the soup until smooth.\n\n6. **Serve**  \n   Serve hot, optionally with some fresh crusty bread.\n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT25M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "pasta",
@@ -177,7 +177,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 1 lb Fettuccine or Tagliatelle\n- [ ] 2 tbsp Olive Oil\n- [ ] 1 lb Mixed Wild Mushrooms\n- [ ] 3 cloves Garlic, minced\n- [ ] 1 cup Heavy Cream\n- [ ] 1/2 cup Parmesan Cheese\n- [ ] Fresh Parsley, chopped\n- [ ] Salt and Black Pepper\n\n### Instructions\n1. **Prepare the Mushrooms**\n   Clean the mushrooms with a damp cloth and slice them. Heat olive oil in a large skillet over medium-high heat. Add the mushrooms and cook until golden brown and moisture has evaporated, about 8-10 minutes.\n\n2. **Cook the Pasta**\n   While mushrooms are cooking, bring a large pot of salted water to a boil. Add pasta and cook according to package directions until al dente. Reserve 1/2 cup of pasta water before draining.\n\n3. **Make the Sauce**\n   Reduce heat to medium. Add minced garlic to the mushrooms and sauté for 1 minute until fragrant. Pour in the heavy cream and simmer for 2-3 minutes until slightly thickened.\n\n4. **Combine and Serve**\n   Stir in the parmesan cheese. Add the drained pasta to the skillet along with a splash of reserved pasta water if needed to loosen the sauce. Toss to coat evenly. Season with salt and pepper. Garnish with fresh parsley and serve immediately.\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT20M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "rougail-saucisses",
@@ -192,7 +192,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 1.5 lbs Smoked Sausages (or Toulouse sausages)\n- [ ] 4 medium Tomatoes, diced\n- [ ] 2 large Onions, sliced\n- [ ] 3 cloves Garlic, minced\n- [ ] 1-2 Fresh Chili Peppers, chopped\n- [ ] 2 tbsp Vegetable Oil\n- [ ] 1 tbsp Tomato Paste\n- [ ] 1 sprig Thyme\n- [ ] 1 Bay Leaf\n- [ ] Salt and Black Pepper\n- [ ] Fresh Parsley or Cilantro for garnish\n\n### Instructions\n1. **Prepare the Sausages**\n   Cut the sausages into bite-sized pieces (about 2-inch chunks). If using smoked sausages, you can blanch them briefly in boiling water to remove excess salt, then drain.\n\n2. **Sauté the Aromatics**\n   Heat oil in a large skillet or Dutch oven over medium heat. Add the sliced onions and cook until softened and translucent, about 5-7 minutes. Add minced garlic and chopped chili peppers, sauté for 1-2 minutes until fragrant.\n\n3. **Build the Sauce**\n   Add the diced tomatoes and tomato paste to the pan. Stir well and cook for 5 minutes until tomatoes begin to break down. Add thyme and bay leaf. Season with salt and pepper.\n\n4. **Simmer and Serve**\n   Add the sausage pieces to the sauce and stir to coat. Reduce heat to low, cover, and simmer for 15-20 minutes, stirring occasionally. The sauce should thicken and the flavors meld together. Remove bay leaf and thyme sprig. Garnish with fresh herbs and serve hot over white rice.",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT30M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "salad",
@@ -207,7 +207,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 4 cups Mixed Greens\n- [ ] 1 cup Cherry Tomatoes, halved\n- [ ] 1 Cucumber, sliced\n- [ ] 1 Avocado, diced\n- [ ] 1/4 Red Onion, thinly sliced\n- [ ] 2 tbsp Lemon Juice\n- [ ] 3 tbsp Extra Virgin Olive Oil\n- [ ] Salt and Pepper\n\n### Instructions\n1. **Prep the Vegetables**\n   Wash and dry the mixed greens thoroughly. Slice the cherry tomatoes in half, slice the cucumber into rounds, and dice the avocado.\n\n2. **Make the Dressing**\n   In a small jar or bowl, whisk together the lemon juice, extra virgin olive oil, salt, and pepper until emulsified.\n\n3. **Assemble**\n   In a large salad bowl, combine the greens, tomatoes, cucumber, and red onion. Drizzle with half the dressing and toss gently to coat.\n\n4. **Finish and Serve**\n   Top with the diced avocado (adding it last prevents it from getting mashed). Drizzle with the remaining dressing and serve immediately.\n",
         "isoPrepTime": "PT15M",
         "isoCookTime": "PT0M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "savory-mashed-sweet-potatoes",
@@ -222,7 +222,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2–3 potatoes, peeled and cut into chunks\n- [ ] 750 g sweet potatoes, peeled and cut into chunks\n- [ ] 40–60 g butter (to taste)\n- [ ] 3–4 tbsp sour cream\n- [ ] Salt\n- [ ] Black pepper (optional)\n\n### Instructions\n\n1. **Steam the Potatoes**  \n   Place the potatoes and sweet potatoes in a steamer basket. Steam for 20–25 minutes, or until both are very tender when pierced with a knife.\n\n2. **Combine in a Bowl**  \n   Transfer the cooked potatoes and sweet potatoes to a large mixing bowl.\n\n3. **Add the Creaminess**  \n   Add butter and sour cream. Season with salt, and black pepper if desired.\n\n4. **Mash**  \n   Mash everything together until the texture is as smooth or rustic as you prefer. Adjust seasoning, butter, or sour cream to taste.\n\n5. **Serve**  \n   Serve hot as a savory side dish.\n",
         "isoPrepTime": "PT10M",
         "isoCookTime": "PT25M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "sweet-soy-air-fryer-brussels-sprouts",
@@ -237,7 +237,7 @@ window.recipes = [
         "content": "## Ingredients\n- [ ] 400 g Brussels sprouts, trimmed and halved\n- [ ] 3 garlic cloves, minced\n- [ ] 3 tbsp sweet soy sauce (kecap manis)\n- [ ] 1 tbsp olive oil\n- [ ] Salt (to taste)\n- [ ] Pepper (to taste)\n\n## Instructions\n1. Preheat your air fryer to 200°C (390°F) for 3 minutes.\n2. In a bowl, toss the Brussels sprouts with the olive oil, garlic, salt, and pepper until evenly coated.\n3. Place the sprouts cut-side down in the air fryer basket in a single layer. Cook at 200°C for 10 minutes.\n4. Remove the basket and drizzle the sweet soy sauce over the sprouts. Toss to coat.\n5. Return to the air fryer for a further 5 minutes until caramelised and sticky.\n6. Let rest for 1–2 minutes before serving — the glaze will thicken slightly as it cools.\n",
         "isoPrepTime": "PT5M",
         "isoCookTime": "PT15M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "tartiflette",
@@ -252,7 +252,7 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2.5 lbs Potatoes (Yukon Gold or similar)\n- [ ] 8 oz Bacon or Lardons, diced\n- [ ] 2 large Onions, thinly sliced\n- [ ] 2 cloves Garlic, minced\n- [ ] 1 cup Dry White Wine\n- [ ] 1 cup Heavy Cream\n- [ ] 1 whole Reblochon Cheese (about 1 lb)\n- [ ] 2 tbsp Butter\n- [ ] Fresh Thyme\n- [ ] Salt and Black Pepper\n- [ ] Fresh Parsley for garnish\n\n### Instructions\n1. **Cook the Potatoes**\n   Peel the potatoes and cut them into thick slices (about 1/4 inch). Boil in salted water for 10-12 minutes until just tender but not falling apart. They should still have some firmness. Drain and set aside.\n\n2. **Prepare the Bacon and Onions**\n   In a large skillet, cook the bacon or lardons over medium heat until crispy, about 5-7 minutes. Remove and set aside. In the same pan with the bacon fat, add butter and sauté the sliced onions until soft and golden, about 8-10 minutes. Add minced garlic and cook for 1 minute more. Season with salt, pepper, and fresh thyme.\n\n3. **Deglaze and Combine**\n   Pour the white wine into the skillet with the onions and let it simmer for 2-3 minutes to reduce slightly. Add the cooked potatoes and bacon back to the pan. Gently toss to combine. Pour in the heavy cream and stir carefully to coat everything evenly.\n\n4. **Assemble and Bake**\n   Preheat oven to 375°F (190°C). Transfer the potato mixture to a large baking dish. Cut the Reblochon cheese in half horizontally to create two rounds. Place the cheese halves on top of the potatoes, rind-side up. Bake for 25-30 minutes until the cheese is melted and bubbly and the top is golden brown. Let rest for 5 minutes, garnish with fresh parsley, and serve hot with a green salad and crusty bread.",
         "isoPrepTime": "PT20M",
         "isoCookTime": "PT40M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "vegetarian-ratatouille-lasagna",
@@ -267,7 +267,7 @@ window.recipes = [
         "content": "### Ingredients\n#### Ratatouille\n- [ ] 1 medium eggplant, diced\n- [ ] 2 zucchinis, diced\n- [ ] 1 red bell pepper, diced\n- [ ] 1 yellow bell pepper, diced\n- [ ] 1 onion, diced\n- [ ] 3 cloves garlic, minced\n- [ ] 4 medium tomatoes, diced (or 1 can diced tomatoes)\n- [ ] 3 tbsp olive oil\n- [ ] 1 tsp dried thyme\n- [ ] 1 tsp dried oregano\n- [ ] Salt and black pepper\n#### Lasagna\n- [ ] 12 lasagna sheets (pre-cooked or no-boil)\n- [ ] 200 g vegan haché (plant-based minced protein)\n- [ ] 400 g tomato sauce\n- [ ] 50 g butter\n- [ ] 50 g flour\n- [ ] 500 ml milk (or plant-based alternative)\n- [ ] Salt and black pepper\n- [ ] 200 g raclette cheese, sliced\n- [ ] 150 g shredded mozzarella (or plant-based mozzarella for vegan option)\n- [ ] Olive oil\n\n### Instructions\n\n1. **Prepare the Ratatouille**\n   Heat olive oil in a large skillet over medium heat. Sauté onion and garlic until softened, about 3-4 minutes. Add eggplant and bell peppers, cook for 5–6 minutes until slightly tender. Add zucchini and tomatoes. Season with thyme, oregano, salt, and pepper. Simmer on low heat for 15–20 minutes, stirring occasionally, until vegetables are tender and flavors meld. Set aside.\n\n2. **Prepare the Béchamel**\n   In a saucepan, melt butter over medium heat. Add flour and stir to form a roux. Gradually whisk in milk until smooth. Season with salt and pepper. Set aside.\n\n3. **Cook the Vegan Haché**\n   In a skillet, heat a drizzle of olive oil. Cook vegan haché until lightly browned. Stir in half of the tomato sauce and combine well. Set aside.\n\n4. **Assemble the Lasagna**\n   Preheat oven to 180°C (350°F). Spread a thin layer of tomato sauce on the bottom of a baking dish. Place a layer of lasagna sheets. Spread some ratatouille over the sheets. Add a layer of vegan haché with tomato sauce. Pour a little béchamel over and top with slices of raclette cheese. Repeat layers until ingredients are used, finishing with béchamel and raclette.\n\n5. **Top and Bake**\n   Sprinkle shredded mozzarella over the top. Cover with foil and bake for 30 minutes. Remove foil and bake 10–15 minutes more until golden and bubbling.\n\n6. **Serve**\n   Let rest for 5–10 minutes before slicing. Serve warm, ideally with a fresh green salad.\n",
         "isoPrepTime": "PT45M",
         "isoCookTime": "PT50M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     },
     {
         "id": "zucchini-fritters",
@@ -282,6 +282,6 @@ window.recipes = [
         "content": "### Ingredients\n- [ ] 2 zucchinis, sliced into 6mm rounds\n- [ ] 2 tsp salt\n- [ ] 125 ml milk\n- [ ] 1 tbsp white or cider vinegar\n- [ ] 1/2 tsp black pepper\n- [ ] 60 g potato starch\n- [ ] 1 tsp turmeric\n- [ ] 2 tbsp olive oil\n- [ ] Sweet or spicy soy sauce (to serve)\n\n### Instructions\n1. **Draw out moisture from the zucchini**\n   Salt both sides of the rounds and place them on paper towels. Flip them over and let rest for 15 minutes. Pat dry thoroughly before continuing.\n\n2. **Prepare the two mixtures**\n   In a small bowl, combine the milk and vinegar. In another bowl, mix together the pepper, potato starch, turmeric, and remaining salt.\n\n3. **Coat the rounds**\n   Dip each round into the vinegared milk, then coat it in the starch mixture. Shake off the excess and set aside on a plate.\n\n4. **Cook the fritters**\n   In a large non-stick pan, heat 1 tbsp of olive oil over medium heat. Arrange a single layer of rounds and cook for 3 to 4 minutes until golden brown, then flip to cook the other side. Repeat with the remaining oil and rounds.\n\n5. **Serve**\n   Enjoy hot with sweet or spicy soy sauce.",
         "isoPrepTime": "PT20M",
         "isoCookTime": "PT10M",
-        "datePublished": "2026-04-23"
+        "datePublished": "2026-05-21"
     }
 ];

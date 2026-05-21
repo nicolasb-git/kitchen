@@ -6,7 +6,7 @@ prep_time: 10 mins (plus 1 h marinating)
 cook_time: 40 mins
 servings: 4
 category: Dinner
-tags: Traditional, French
+tags: Traditional, Asian
 description: Tender duck wings marinated in a sweet, savory, and slightly spiced glaze, then roasted until caramelized and golden.
 ---
 
